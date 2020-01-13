@@ -4,4 +4,5 @@ path = "categories"
 template = "categories/categories.html"
 +++
 
-# Cateogires
+# Categorias
+## Lista de Categorias
