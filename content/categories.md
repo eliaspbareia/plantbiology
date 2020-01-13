@@ -1,7 +1,7 @@
 +++
 title = "Categorias"
 path = "categories"
-template = "categories.html"
+template = "categories/categories.html"
 +++
 
 # Cateogires
