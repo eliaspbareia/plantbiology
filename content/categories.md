@@ -1,2 +1,7 @@
-+++ title = "Categorias" path = "categories" template = "page.html" +++
-#Categories
++++ 
+title = "Categorias" 
+path = "categories" 
+template = "page.html" 
++++
+
+# Categories
