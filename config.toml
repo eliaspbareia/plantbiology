@@ -20,8 +20,8 @@ build_search_index = true
 # Put all your custom variables here
 
 taxonomies = [
-    {name= "categories", rss = true},
-    {name= "tags", rss = true}
+    {name= "categories", rss = true}
+
 ]
 
 even_title = "Plant Biology"
